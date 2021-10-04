@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about-mes/
+permalink: /about-me/
 ---
 
 Informasi tentang penulis
