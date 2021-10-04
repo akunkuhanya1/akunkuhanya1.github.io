@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about-mes/
 ---
 
-Some information about you!
+Informasi tentang penulis
 
-### More Information
+### Berikut informasinya
 
-A place to include any other types of information that you'd like to include about yourself.
+Hanya manusia biasa
 
 ### Contact me
 
